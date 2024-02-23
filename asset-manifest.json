@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dbdle/static/css/main.f855e6bc.css",
+    "main.js": "/dbdle/static/js/main.8fa12d36.js",
+    "static/js/453.ed512f6c.chunk.js": "/dbdle/static/js/453.ed512f6c.chunk.js",
+    "static/media/logo.svg": "/dbdle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dbdle/index.html",
+    "main.f855e6bc.css.map": "/dbdle/static/css/main.f855e6bc.css.map",
+    "main.8fa12d36.js.map": "/dbdle/static/js/main.8fa12d36.js.map",
+    "453.ed512f6c.chunk.js.map": "/dbdle/static/js/453.ed512f6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8fa12d36.js"
+  ]
+}
